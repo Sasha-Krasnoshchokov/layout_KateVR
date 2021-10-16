@@ -1,10 +1,7 @@
 # KateVR landing page
-Implement landing page according to [Figma design](https://www.figma.com/file/hhtGde1r4hMr5wghrKm6vl/KatVR?node-id=159%3A0) - Use BEM and SCSS
+[Figma design](https://www.figma.com/file/hhtGde1r4hMr5wghrKm6vl/KatVR?node-id=159%3A0)
+[DEMO LINK](https://Sasha-Krasnoshchokov.github.io/layout_KateVR/)
 
-- Large screens 2560px
-- Full HD 1920px
-- The design 1600px
-- Notebook 1280px
-- Tablet 1024
-- Mobile (> 320px)
-
+Tech stack: HTML5, SASS(SCSS), BEM, JS
+Responsive design
+Fully responsive layout was made by using CSS Grid and Flexbox (mobiles, tablets, laptops, hight screens)
